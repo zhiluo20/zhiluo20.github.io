@@ -1,0 +1,13 @@
+# mecury.co.uk — served from zhiluo20.github.io (user Pages site + CNAME).
+#
+# This file has to live at the DOMAIN ROOT to be read at all; a robots.txt inside a
+# project repo would land at /<project>/robots.txt, which no crawler looks for. That is
+# why the sitemap reference for /vibeit/ belongs here rather than in the vibeit repo.
+#
+# Sitemap points at the root index, not at any single product, so adding another app
+# means adding one line there instead of touching this file.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://mecury.co.uk/sitemap.xml

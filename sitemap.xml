@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Sitemap INDEX for mecury.co.uk.
+
+  Deliberately an index rather than a flat list of URLs: each product publishes from its
+  own repo and owns its own sitemap, so this file only needs one <sitemap> entry per
+  product. Adding the next app under this domain is a one-line change here, and no repo
+  ever has to know about another repo's pages.
+
+  A sitemap index may reference sitemaps elsewhere on the same host, so pointing at
+  /vibeit/sitemap.xml from the root is valid.
+-->
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://mecury.co.uk/vibeit/sitemap.xml</loc>
+  </sitemap>
+</sitemapindex>
