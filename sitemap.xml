@@ -14,4 +14,7 @@
   <sitemap>
     <loc>https://mecury.co.uk/vibeit/sitemap.xml</loc>
   </sitemap>
+  <sitemap>
+    <loc>https://www.mecury.co.uk/server-sentinel/sitemap.xml</loc>
+  </sitemap>
 </sitemapindex>
