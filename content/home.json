@@ -1,0 +1,1135 @@
+{
+  "en": {
+    "name": "English",
+    "short": "EN",
+    "pageTitle": "Mecury — A parallel life, built for real",
+    "description": "The personal world of Zhi Luo, an Imperial College London graduate and molecular and computational biologist. Discover Vibeit, the iPad IDE he once wished for.",
+    "nav": [
+      "Vibeit",
+      "My story",
+      "Other creations"
+    ],
+    "skip": "Skip to content",
+    "language": "Choose language",
+    "heroKicker": "Mecury / A parallel life",
+    "headline": [
+      "A parallel life.",
+      "Built for real."
+    ],
+    "intro": "I'm Zhi. A scientist with more than one life in mind. This is where I start building the others.",
+    "explore": "Explore Vibeit",
+    "read": "Read my story",
+    "role": "Molecular & Computational Biologist",
+    "education": "Imperial College London Graduate",
+    "firstChapter": "The first chapter",
+    "teaser": "An old wish. A very real app.",
+    "heroFooter": "Science × Software × Possibility",
+    "scroll": "Scroll to the first chapter",
+    "productTitle": [
+      "I built the iPad IDE",
+      "I once wished for."
+    ],
+    "productIntro": [
+      "It began with a student, an iPad, and a question: why couldn’t I do my Python work here?",
+      "Vibeit is my answer."
+    ],
+    "specs": [
+      "Real Python, on device",
+      "Interactive notebooks",
+      "Made for Apple silicon"
+    ],
+    "productLink": "Explore the app",
+    "storyKicker": "01 / How Vibeit began",
+    "storyTitle": [
+      "Some ideas stay with you",
+      "until you make them real."
+    ],
+    "steps": [
+      [
+        "The wish",
+        "A tablet full of possibilities.",
+        "My first iPad held my notes and sketches. As a student, I wanted to write Python and analyse biological data on it, too. I couldn’t find the IDE I was looking for."
+      ],
+      [
+        "The decision",
+        "Build the thing I wanted.",
+        "That thought never quite left. I began turning it into Vibeit: a real workspace for code, notebooks, and scientific exploration, right on the device."
+      ],
+      [
+        "The possibility",
+        "Let the hardware do more.",
+        "M-series chips bring more computing power to iPad. Vibeit gives that power a place in my everyday work, and gives an old idea a future beyond me."
+      ]
+    ],
+    "aboutKicker": "02 / The other lives",
+    "aboutTitle": [
+      "For the parts of me",
+      "still becoming."
+    ],
+    "aboutBody": [
+      "I am a molecular and computational biologist, and an Imperial College London graduate. I love science. I also wonder about the worlds I haven’t lived in: medicine, law, acting, music.",
+      "Mecury is the name I gave one of those parallel lives. In my spare time, I get to begin it — one piece of software at a time."
+    ],
+    "careers": [
+      "Scientist",
+      "Doctor",
+      "Lawyer",
+      "Actor",
+      "Singer",
+      "Builder, here and now"
+    ],
+    "portraitCaption": "The scientist & the maker",
+    "otherTitle": "A few other creations.",
+    "otherKicker": "The story continues",
+    "timenu": [
+      "A little more perspective on time.",
+      "World clocks in your Mac menu bar."
+    ],
+    "sentinel": [
+      "A quieter way to keep watch.",
+      "Private monitoring for your servers."
+    ],
+    "closingTitle": [
+      "Make room for",
+      "another possibility."
+    ],
+    "closingBody": "Start with Vibeit. See where your curiosity takes you.",
+    "closingCta": "Discover Vibeit",
+    "contact": "Contact",
+    "privacy": "Privacy",
+    "footerNote": "Another life, one creation at a time.",
+    "portraitAlt": "Zhi Luo wearing blue headphones, looking to the side",
+    "formalAlt": "Portrait of Zhi Luo in a tweed jacket",
+    "productAlt": "Vibeit running a Python notebook with code, a waveform and a spectrogram on iPad"
+  },
+  "zh-Hans": {
+    "name": "简体中文",
+    "short": "简",
+    "pageTitle": "Mecury — 另一种人生，正在发生",
+    "description": "认识 Zhi Luo：帝国理工学院毕业的分子生物学家与计算生物学家。探索 Mecury 的平行人生，以及 Vibeit 这款源于学生时代愿望的 iPad IDE。",
+    "nav": [
+      "Vibeit",
+      "我的故事",
+      "其他作品"
+    ],
+    "skip": "跳转到正文",
+    "language": "选择语言",
+    "heroKicker": "Mecury / 平行人生",
+    "headline": [
+      "另一种人生，",
+      "正在发生。"
+    ],
+    "intro": "我是 Zhi，一名对人生有着许多想象的科学家。在这里，我开始亲手创造其中的另一种可能。",
+    "explore": "探索 Vibeit",
+    "read": "读我的故事",
+    "role": "分子生物学家 · 计算生物学家",
+    "education": "帝国理工学院毕业生",
+    "firstChapter": "故事的第一章",
+    "teaser": "一个旧愿望，一款真实的作品。",
+    "heroFooter": "科研 × 软件 × 更多可能",
+    "scroll": "向下，读故事的第一章",
+    "productTitle": [
+      "我把学生时代想要的",
+      "iPad IDE，做了出来。"
+    ],
+    "productIntro": [
+      "故事始于学生时代的一台 iPad，和一个念头：为什么不能在这上面完成我的 Python 工作？",
+      "Vibeit 是我给出的回答。"
+    ],
+    "specs": [
+      "在设备上运行真正的 Python",
+      "交互式笔记本",
+      "为 Apple 芯片而作"
+    ],
+    "productLink": "了解这款应用",
+    "storyKicker": "01 / Vibeit 的起点",
+    "storyTitle": [
+      "有些想法会一直留在心里，",
+      "直到你让它成为现实。"
+    ],
+    "steps": [
+      [
+        "最初的愿望",
+        "一块屏幕，许多可能。",
+        "第一台 iPad 装下了我的笔记和涂画。那时还在上学的我，也想用它写 Python、分析生物信息学数据，却没有找到符合自己期待的 IDE。"
+      ],
+      [
+        "后来的决定",
+        "把想要的工具做出来。",
+        "那个念头一直没有离开。后来，我开始把它变成 Vibeit：让代码、笔记本和科学探索，在同一台设备上拥有一个真正的工作空间。"
+      ],
+      [
+        "今天的可能",
+        "让硬件承担更多工作。",
+        "M 系列芯片为 iPad 带来越来越充足的计算能力。Vibeit 让这些能力进入日常工作，也让一个属于我的旧愿望，拥有了与你有关的未来。"
+      ]
+    ],
+    "aboutKicker": "02 / 那些想体验的人生",
+    "aboutTitle": [
+      "为还在生长的自己，",
+      "留一些空间。"
+    ],
+    "aboutBody": [
+      "我是一名毕业于帝国理工学院的分子生物学家和计算生物学家。我热爱科研，也好奇那些尚未经历的世界：医学、法律、表演与音乐。",
+      "Mecury 是我给其中一种平行人生取的名字。利用闲暇时间，我开始把它变成现实——从一个个软件作品开始。"
+    ],
+    "careers": [
+      "科学家",
+      "医生",
+      "律师",
+      "演员",
+      "歌手",
+      "创造者，从此刻开始"
+    ],
+    "portraitCaption": "科学家，也是创造者",
+    "otherTitle": "还有这些作品。",
+    "otherKicker": "故事仍在继续",
+    "timenu": [
+      "从另一个时区，看见日常。",
+      "Mac 菜单栏里的世界时钟。"
+    ],
+    "sentinel": [
+      "以更从容的方式，关注运行。",
+      "专注隐私的服务器监控工具。"
+    ],
+    "closingTitle": [
+      "给下一种可能，",
+      "留一个起点。"
+    ],
+    "closingBody": "从 Vibeit 开始，看看好奇心会带你去哪里。",
+    "closingCta": "认识 Vibeit",
+    "contact": "联系",
+    "privacy": "隐私政策",
+    "footerNote": "另一种人生，从一个真实的作品开始。",
+    "portraitAlt": "戴着蓝色耳机、望向侧方的 Zhi Luo",
+    "formalAlt": "身穿粗花呢外套的 Zhi Luo 正装肖像",
+    "productAlt": "iPad 上的真实 Vibeit 界面，展示 Python 代码、波形和频谱图"
+  },
+  "zh-Hant": {
+    "name": "繁體中文",
+    "short": "繁",
+    "pageTitle": "Mecury — 另一種人生，正在發生",
+    "description": "認識 Zhi Luo：帝國理工學院畢業的分子生物學家與計算生物學家。探索 Mecury 的平行人生，以及 Vibeit 這款源於學生時代願望的 iPad IDE。",
+    "nav": [
+      "Vibeit",
+      "我的故事",
+      "其他作品"
+    ],
+    "skip": "跳至正文",
+    "language": "選擇語言",
+    "heroKicker": "Mecury / 平行人生",
+    "headline": [
+      "另一種人生，",
+      "正在發生。"
+    ],
+    "intro": "我是 Zhi，一名對人生有著許多想像的科學家。在這裡，我開始親手創造其中的另一種可能。",
+    "explore": "探索 Vibeit",
+    "read": "讀我的故事",
+    "role": "分子生物學家 · 計算生物學家",
+    "education": "帝國理工學院畢業生",
+    "firstChapter": "故事的第一章",
+    "teaser": "一個舊願望，一款真實的作品。",
+    "heroFooter": "科研 × 軟體 × 更多可能",
+    "scroll": "往下，讀故事的第一章",
+    "productTitle": [
+      "我把學生時代想要的",
+      "iPad IDE，做了出來。"
+    ],
+    "productIntro": [
+      "故事始於學生時代的一台 iPad，和一個念頭：為什麼不能在這上面完成我的 Python 工作？",
+      "Vibeit 是我給出的回答。"
+    ],
+    "specs": [
+      "在裝置上執行真正的 Python",
+      "互動式筆記本",
+      "為 Apple 晶片而作"
+    ],
+    "productLink": "了解這款應用程式",
+    "storyKicker": "01 / Vibeit 的起點",
+    "storyTitle": [
+      "有些想法會一直留在心裡，",
+      "直到你讓它成為現實。"
+    ],
+    "steps": [
+      [
+        "最初的願望",
+        "一塊螢幕，許多可能。",
+        "第一台 iPad 裝下了我的筆記和塗鴉。那時還在上學的我，也想用它寫 Python、分析生物資訊資料，卻沒有找到符合自己期待的 IDE。"
+      ],
+      [
+        "後來的決定",
+        "把想要的工具做出來。",
+        "那個念頭一直沒有離開。後來，我開始把它變成 Vibeit：讓程式碼、筆記本和科學探索，在同一台裝置上擁有一個真正的工作空間。"
+      ],
+      [
+        "今天的可能",
+        "讓硬體承擔更多工作。",
+        "M 系列晶片為 iPad 帶來越來越充足的運算能力。Vibeit 讓這些能力進入日常工作，也讓一個屬於我的舊願望，擁有了與你有關的未來。"
+      ]
+    ],
+    "aboutKicker": "02 / 那些想體驗的人生",
+    "aboutTitle": [
+      "為還在成長的自己，",
+      "留一些空間。"
+    ],
+    "aboutBody": [
+      "我是一名畢業於帝國理工學院的分子生物學家和計算生物學家。我熱愛科研，也好奇那些尚未經歷的世界：醫學、法律、表演與音樂。",
+      "Mecury 是我給其中一種平行人生取的名字。利用閒暇時間，我開始把它變成現實——從一個個軟體作品開始。"
+    ],
+    "careers": [
+      "科學家",
+      "醫生",
+      "律師",
+      "演員",
+      "歌手",
+      "創作者，從此刻開始"
+    ],
+    "portraitCaption": "科學家，也是創作者",
+    "otherTitle": "還有這些作品。",
+    "otherKicker": "故事仍在繼續",
+    "timenu": [
+      "從另一個時區，看見日常。",
+      "Mac 選單列裡的世界時鐘。"
+    ],
+    "sentinel": [
+      "以更從容的方式，關注運行。",
+      "注重隱私的伺服器監控工具。"
+    ],
+    "closingTitle": [
+      "給下一種可能，",
+      "留一個起點。"
+    ],
+    "closingBody": "從 Vibeit 開始，看看好奇心會帶你去哪裡。",
+    "closingCta": "認識 Vibeit",
+    "contact": "聯絡",
+    "privacy": "隱私權政策",
+    "footerNote": "另一種人生，從一個真實的作品開始。",
+    "portraitAlt": "戴著藍色耳機、望向側方的 Zhi Luo",
+    "formalAlt": "身穿粗花呢外套的 Zhi Luo 正裝肖像",
+    "productAlt": "iPad 上的真實 Vibeit 介面，展示 Python 程式碼、波形及頻譜圖"
+  },
+  "fr": {
+    "name": "Français",
+    "short": "FR",
+    "pageTitle": "Mecury — Une vie parallèle, bien réelle",
+    "description": "L’univers de Zhi Luo, biologiste moléculaire et computationnel diplômé de l’Imperial College London. Découvrez Vibeit, l’IDE pour iPad dont il rêvait.",
+    "nav": [
+      "Vibeit",
+      "Mon histoire",
+      "Autres créations"
+    ],
+    "skip": "Aller au contenu",
+    "language": "Choisir la langue",
+    "heroKicker": "Mecury / Une vie parallèle",
+    "headline": [
+      "Une vie parallèle.",
+      "Bien réelle."
+    ],
+    "intro": "Je suis Zhi. Un scientifique qui imagine plus d’une vie. Ici, je commence à donner forme aux autres.",
+    "explore": "Découvrir Vibeit",
+    "read": "Mon histoire",
+    "role": "Biologiste moléculaire et computationnel",
+    "education": "Diplômé de l’Imperial College London",
+    "firstChapter": "Le premier chapitre",
+    "teaser": "Un vieux souhait. Une vraie application.",
+    "heroFooter": "Science × Logiciel × Possibilités",
+    "scroll": "Découvrir le premier chapitre",
+    "productTitle": [
+      "J’ai créé l’IDE pour iPad",
+      "dont je rêvais."
+    ],
+    "productIntro": [
+      "Tout a commencé avec un étudiant, un iPad et une question : pourquoi ne pas y faire mon travail en Python ?",
+      "Vibeit est ma réponse."
+    ],
+    "specs": [
+      "Python directement sur l’appareil",
+      "Notebooks interactifs",
+      "Pensé pour les puces Apple"
+    ],
+    "productLink": "Explorer l’application",
+    "storyKicker": "01 / La naissance de Vibeit",
+    "storyTitle": [
+      "Certaines idées vous accompagnent",
+      "jusqu’à devenir réalité."
+    ],
+    "steps": [
+      [
+        "Le souhait",
+        "Une tablette pleine de possibilités.",
+        "Mon premier iPad accueillait mes notes et mes croquis. Étudiant, je voulais aussi y écrire du Python et analyser des données biologiques. Je ne trouvais pas l’IDE que je cherchais."
+      ],
+      [
+        "La décision",
+        "Créer l’outil que je voulais.",
+        "Cette idée ne m’a jamais vraiment quitté. J’ai commencé à en faire Vibeit : un véritable espace de travail pour le code, les notebooks et l’exploration scientifique, sur l’appareil lui-même."
+      ],
+      [
+        "Les possibilités",
+        "Faire davantage avec cet appareil.",
+        "Les puces de série M donnent toujours plus de puissance à l’iPad. Vibeit lui trouve une place dans mon travail quotidien et offre à cette ancienne idée un avenir qui dépasse ma propre histoire."
+      ]
+    ],
+    "aboutKicker": "02 / Les autres vies",
+    "aboutTitle": [
+      "Une place pour celui",
+      "que je deviens encore."
+    ],
+    "aboutBody": [
+      "Je suis biologiste moléculaire et computationnel, diplômé de l’Imperial College London. J’aime la science. Mais les mondes que je n’ai pas vécus m’intriguent aussi : la médecine, le droit, le théâtre, la musique.",
+      "Mecury est le nom que j’ai donné à l’une de ces vies parallèles. Sur mon temps libre, je peux commencer à la vivre, un logiciel à la fois."
+    ],
+    "careers": [
+      "Scientifique",
+      "Médecin",
+      "Avocat",
+      "Acteur",
+      "Chanteur",
+      "Créateur, ici et maintenant"
+    ],
+    "portraitCaption": "Le scientifique et le créateur",
+    "otherTitle": "Quelques autres créations.",
+    "otherKicker": "L’histoire continue",
+    "timenu": [
+      "Un autre regard sur le temps.",
+      "Les heures du monde dans la barre des menus du Mac."
+    ],
+    "sentinel": [
+      "Veiller plus sereinement.",
+      "Une surveillance privée de vos serveurs."
+    ],
+    "closingTitle": [
+      "Faites une place",
+      "à d’autres possibles."
+    ],
+    "closingBody": "Commencez avec Vibeit. Suivez votre curiosité.",
+    "closingCta": "Découvrir Vibeit",
+    "contact": "Contact",
+    "privacy": "Confidentialité",
+    "footerNote": "Une autre vie, une création à la fois.",
+    "portraitAlt": "Zhi Luo de profil avec un casque bleu",
+    "formalAlt": "Portrait de Zhi Luo en veste de tweed",
+    "productAlt": "Vibeit sur iPad : notebook Python, code, forme d’onde et spectrogramme"
+  },
+  "de": {
+    "name": "Deutsch",
+    "short": "DE",
+    "pageTitle": "Mecury — Ein anderes Leben nimmt Gestalt an",
+    "description": "Die Welt von Zhi Luo, Molekular- und Computerbiologe und Absolvent des Imperial College London. Entdecke Vibeit, die iPad-IDE, die er sich einst wünschte.",
+    "nav": [
+      "Vibeit",
+      "Meine Geschichte",
+      "Weitere Projekte"
+    ],
+    "skip": "Zum Inhalt springen",
+    "language": "Sprache auswählen",
+    "heroKicker": "Mecury / Ein paralleles Leben",
+    "headline": [
+      "Ein anderes Leben.",
+      "Selbst geschaffen."
+    ],
+    "intro": "Ich bin Zhi. Wissenschaftler mit mehr als einem Leben im Kopf. Hier fange ich an, die anderen zu gestalten.",
+    "explore": "Vibeit entdecken",
+    "read": "Meine Geschichte",
+    "role": "Molekular- und Computerbiologe",
+    "education": "Absolvent des Imperial College London",
+    "firstChapter": "Das erste Kapitel",
+    "teaser": "Ein alter Wunsch. Eine echte App.",
+    "heroFooter": "Wissenschaft × Software × Möglichkeiten",
+    "scroll": "Zum ersten Kapitel",
+    "productTitle": [
+      "Ich habe die iPad-IDE gebaut,",
+      "die ich mir einst wünschte."
+    ],
+    "productIntro": [
+      "Am Anfang standen ein Student, ein iPad und eine Frage: Warum kann ich meine Python-Arbeit nicht hier erledigen?",
+      "Vibeit ist meine Antwort."
+    ],
+    "specs": [
+      "Echtes Python auf dem Gerät",
+      "Interaktive Notebooks",
+      "Für Apple Chips entwickelt"
+    ],
+    "productLink": "Die App entdecken",
+    "storyKicker": "01 / Wie Vibeit entstand",
+    "storyTitle": [
+      "Manche Ideen bleiben,",
+      "bis man sie Wirklichkeit werden lässt."
+    ],
+    "steps": [
+      [
+        "Der Wunsch",
+        "Ein Tablet voller Möglichkeiten.",
+        "Auf meinem ersten iPad sammelte ich Notizen und Skizzen. Als Student wollte ich darauf auch Python schreiben und biologische Daten analysieren. Die passende IDE fand ich nicht."
+      ],
+      [
+        "Die Entscheidung",
+        "Das gewünschte Werkzeug selbst bauen.",
+        "Der Gedanke ließ mich nicht los. Daraus wurde Vibeit: ein echter Arbeitsplatz für Code, Notebooks und wissenschaftliche Entdeckungen, direkt auf dem Gerät."
+      ],
+      [
+        "Die Möglichkeiten",
+        "Die Hardware weiterdenken.",
+        "Chips der M-Serie bringen mehr Rechenleistung aufs iPad. Mit Vibeit kann ich sie im Alltag nutzen. Und eine alte Idee bekommt eine Zukunft, die über meine eigenen Bedürfnisse hinausgeht."
+      ]
+    ],
+    "aboutKicker": "02 / Die anderen Leben",
+    "aboutTitle": [
+      "Raum für das,",
+      "was ich noch werden könnte."
+    ],
+    "aboutBody": [
+      "Ich bin Molekular- und Computerbiologe und Absolvent des Imperial College London. Ich liebe die Wissenschaft. Mich reizen aber auch Welten, die ich noch nicht erlebt habe: Medizin, Recht, Schauspiel und Musik.",
+      "Mecury ist der Name, den ich einem dieser parallelen Leben gegeben habe. In meiner Freizeit kann ich damit anfangen, ein Stück Software nach dem anderen."
+    ],
+    "careers": [
+      "Wissenschaftler",
+      "Arzt",
+      "Anwalt",
+      "Schauspieler",
+      "Sänger",
+      "Gestalter, hier und jetzt"
+    ],
+    "portraitCaption": "Der Wissenschaftler und der Gestalter",
+    "otherTitle": "Ein paar weitere Projekte.",
+    "otherKicker": "Die Geschichte geht weiter",
+    "timenu": [
+      "Eine andere Perspektive auf die Zeit.",
+      "Weltuhren direkt in der Mac-Menüleiste."
+    ],
+    "sentinel": [
+      "Gelassener den Überblick behalten.",
+      "Private Überwachung deiner Server."
+    ],
+    "closingTitle": [
+      "Raum für",
+      "eine neue Möglichkeit."
+    ],
+    "closingBody": "Fang mit Vibeit an. Entdecke, wohin dich deine Neugier führt.",
+    "closingCta": "Vibeit kennenlernen",
+    "contact": "Kontakt",
+    "privacy": "Datenschutz",
+    "footerNote": "Ein anderes Leben, ein Projekt nach dem anderen.",
+    "portraitAlt": "Zhi Luo im Profil mit blauen Kopfhörern",
+    "formalAlt": "Porträt von Zhi Luo in einem Tweed-Jackett",
+    "productAlt": "Vibeit auf dem iPad mit Python-Code, Wellenform und Spektrogramm"
+  },
+  "ja": {
+    "name": "日本語",
+    "short": "JA",
+    "pageTitle": "Mecury — もうひとつの人生を、自分の手で",
+    "description": "インペリアル・カレッジ・ロンドン卒の分子生物学者・計算生物学者、Zhi Luoの世界。学生時代にほしかったiPad IDE、Vibeitの物語。",
+    "nav": [
+      "Vibeit",
+      "私のストーリー",
+      "ほかの作品"
+    ],
+    "skip": "本文へ移動",
+    "language": "言語を選択",
+    "heroKicker": "Mecury / もうひとつの人生",
+    "headline": [
+      "もうひとつの人生を、",
+      "自分の手で。"
+    ],
+    "intro": "Zhiです。科学者として生きながら、別の人生も想像しています。ここは、その可能性をかたちにし始める場所です。",
+    "explore": "Vibeitを知る",
+    "read": "ストーリーを読む",
+    "role": "分子生物学者・計算生物学者",
+    "education": "インペリアル・カレッジ・ロンドン卒業",
+    "firstChapter": "最初の章",
+    "teaser": "あの頃の願いが、ひとつのアプリに。",
+    "heroFooter": "科学 × ソフトウェア × 可能性",
+    "scroll": "最初の章へ",
+    "productTitle": [
+      "学生時代にほしかったiPad IDEを、",
+      "自分でつくりました。"
+    ],
+    "productIntro": [
+      "始まりは、ひとりの学生と一台のiPad、そして小さな疑問でした。この上でPythonの作業ができたらいいのに。",
+      "Vibeitは、私なりの答えです。"
+    ],
+    "specs": [
+      "デバイス上で動く本物のPython",
+      "インタラクティブなノートブック",
+      "Appleシリコンのために"
+    ],
+    "productLink": "アプリを詳しく見る",
+    "storyKicker": "01 / Vibeitが生まれるまで",
+    "storyTitle": [
+      "心に残り続けるアイデアがある。",
+      "自分の手で、かたちにする日まで。"
+    ],
+    "steps": [
+      [
+        "あの頃の願い",
+        "一枚の画面に、たくさんの可能性。",
+        "初めてのiPadには、授業のメモやスケッチが入っていました。学生だった私は、その画面でPythonを書き、生物学のデータも分析したかった。でも、望んでいたIDEは見つかりませんでした。"
+      ],
+      [
+        "つくるという決断",
+        "ほしい道具を、自分でつくる。",
+        "その思いは消えませんでした。やがてVibeitをつくり始めました。コードもノートブックも科学の探究も、同じデバイスでできる作業空間です。"
+      ],
+      [
+        "いまの可能性",
+        "ハードウェアの力を、もっと仕事に。",
+        "Mシリーズチップによって、iPadの計算能力はさらに広がっています。Vibeitはその力を日々の作業につなぎ、かつての私の願いを、ほかの誰かにも使ってもらえるものにします。"
+      ]
+    ],
+    "aboutKicker": "02 / まだ知らない人生",
+    "aboutTitle": [
+      "まだなりたい自分に、",
+      "余白を残して。"
+    ],
+    "aboutBody": [
+      "私は、インペリアル・カレッジ・ロンドンを卒業した分子生物学者・計算生物学者です。科学が好きです。同時に、医学、法律、演技、音楽といった、まだ生きたことのない世界にも惹かれます。",
+      "Mecuryは、そんな平行世界の人生のひとつにつけた名前です。空いた時間に、ひとつずつソフトウェアをつくりながら、その人生を始めています。"
+    ],
+    "careers": [
+      "科学者",
+      "医師",
+      "弁護士",
+      "俳優",
+      "歌手",
+      "つくる人、いまここで"
+    ],
+    "portraitCaption": "科学者として、つくる人として",
+    "otherTitle": "ほかにも、こんな作品を。",
+    "otherKicker": "物語は続く",
+    "timenu": [
+      "時間に、もうひとつの視点を。",
+      "Macのメニューバーに置く世界時計。"
+    ],
+    "sentinel": [
+      "もっと落ち着いて、見守るために。",
+      "プライバシーを大切にしたサーバー監視。"
+    ],
+    "closingTitle": [
+      "次の可能性に、",
+      "始まりの場所を。"
+    ],
+    "closingBody": "Vibeitから始めて、好奇心の向かう先へ。",
+    "closingCta": "Vibeitを見てみる",
+    "contact": "お問い合わせ",
+    "privacy": "プライバシー",
+    "footerNote": "もうひとつの人生を、ひとつの作品から。",
+    "portraitAlt": "青いヘッドホンを着けて横を向くZhi Luo",
+    "formalAlt": "ツイードジャケットを着たZhi Luoの肖像",
+    "productAlt": "iPadのVibeitで表示したPythonコード、波形、スペクトログラム"
+  },
+  "ko": {
+    "name": "한국어",
+    "short": "KO",
+    "pageTitle": "Mecury — 또 다른 삶을 현실로",
+    "description": "임페리얼 칼리지 런던을 졸업한 분자생물학자이자 계산생물학자 Zhi Luo의 세계. 학생 시절 꿈꾸던 iPad IDE, Vibeit의 이야기를 만나보세요.",
+    "nav": [
+      "Vibeit",
+      "나의 이야기",
+      "다른 작업"
+    ],
+    "skip": "본문으로 이동",
+    "language": "언어 선택",
+    "heroKicker": "Mecury / 또 다른 삶",
+    "headline": [
+      "또 다른 삶을,",
+      "내 손으로."
+    ],
+    "intro": "저는 Zhi입니다. 하나 이상의 삶을 상상하는 과학자죠. 여기서 그 가능성들을 직접 만들어 가기 시작합니다.",
+    "explore": "Vibeit 살펴보기",
+    "read": "이야기 읽기",
+    "role": "분자생물학자 · 계산생물학자",
+    "education": "임페리얼 칼리지 런던 졸업",
+    "firstChapter": "첫 번째 장",
+    "teaser": "오랜 바람이 실제 앱이 되기까지.",
+    "heroFooter": "과학 × 소프트웨어 × 가능성",
+    "scroll": "첫 번째 이야기로",
+    "productTitle": [
+      "학생 시절 꿈꾸던 iPad IDE를",
+      "직접 만들었습니다."
+    ],
+    "productIntro": [
+      "한 학생과 iPad 한 대, 그리고 이런 생각에서 시작했습니다. 왜 여기서는 Python 작업을 할 수 없을까?",
+      "Vibeit은 제가 찾은 답입니다."
+    ],
+    "specs": [
+      "기기에서 실행하는 진짜 Python",
+      "대화형 노트북",
+      "Apple Silicon을 위한 도구"
+    ],
+    "productLink": "앱 알아보기",
+    "storyKicker": "01 / Vibeit의 시작",
+    "storyTitle": [
+      "어떤 생각은 마음에 남습니다.",
+      "직접 현실로 만들 때까지."
+    ],
+    "steps": [
+      [
+        "처음의 바람",
+        "가능성이 가득한 태블릿.",
+        "첫 iPad에는 필기와 스케치가 담겼습니다. 학생이던 저는 그 화면에서 Python을 작성하고 생물학 데이터도 분석하고 싶었지만, 원하는 IDE를 찾을 수 없었습니다."
+      ],
+      [
+        "그다음의 결심",
+        "원하던 도구를 직접 만들다.",
+        "그 생각은 쉽게 사라지지 않았습니다. 그래서 Vibeit을 만들기 시작했습니다. 코드와 노트북, 과학적 탐구를 기기 안에서 함께할 수 있는 작업 공간입니다."
+      ],
+      [
+        "오늘의 가능성",
+        "하드웨어의 힘을 더 많은 작업에.",
+        "M 시리즈 칩은 iPad에 더 풍부한 연산 능력을 제공합니다. Vibeit은 그 힘을 일상적인 작업으로 연결하고, 저만의 오래된 바람을 다른 사람도 사용할 수 있는 도구로 만듭니다."
+      ]
+    ],
+    "aboutKicker": "02 / 아직 살아보지 못한 삶",
+    "aboutTitle": [
+      "아직 되어 가는 나에게",
+      "여유를 남겨 둡니다."
+    ],
+    "aboutBody": [
+      "저는 임페리얼 칼리지 런던을 졸업한 분자생물학자이자 계산생물학자입니다. 과학을 사랑하지만, 아직 경험하지 못한 의학과 법률, 연기와 음악의 세계도 궁금합니다.",
+      "Mecury는 제가 상상한 평행 세계의 삶 중 하나에 붙인 이름입니다. 여가 시간에 소프트웨어를 하나씩 만들며, 그 삶을 시작하고 있습니다."
+    ],
+    "careers": [
+      "과학자",
+      "의사",
+      "변호사",
+      "배우",
+      "가수",
+      "창작자, 지금 여기서"
+    ],
+    "portraitCaption": "과학자이자 만드는 사람",
+    "otherTitle": "또 다른 작품들.",
+    "otherKicker": "이야기는 계속됩니다",
+    "timenu": [
+      "시간을 바라보는 또 다른 시선.",
+      "Mac 메뉴 막대에서 만나는 세계 시계."
+    ],
+    "sentinel": [
+      "더 차분하게 지켜보는 방법.",
+      "개인정보를 존중하는 서버 모니터링."
+    ],
+    "closingTitle": [
+      "다음 가능성이",
+      "시작될 자리를."
+    ],
+    "closingBody": "Vibeit으로 시작해 호기심이 이끄는 곳으로 가보세요.",
+    "closingCta": "Vibeit 만나보기",
+    "contact": "문의",
+    "privacy": "개인정보 처리방침",
+    "footerNote": "또 다른 삶을, 하나의 작품에서부터.",
+    "portraitAlt": "파란색 헤드폰을 착용하고 옆을 바라보는 Zhi Luo",
+    "formalAlt": "트위드 재킷을 입은 Zhi Luo의 인물 사진",
+    "productAlt": "iPad의 Vibeit에서 실행 중인 Python 코드, 파형 및 스펙트로그램"
+  },
+  "th": {
+    "name": "ไทย",
+    "short": "TH",
+    "pageTitle": "Mecury — อีกชีวิตหนึ่งที่ลงมือสร้างจริง",
+    "description": "โลกของ Zhi Luo นักชีววิทยาระดับโมเลกุลและชีววิทยาเชิงคำนวณ ศิษย์เก่า Imperial College London และเรื่องราวของ Vibeit ซึ่งเป็น IDE บน iPad ที่เขาเคยอยากมี",
+    "nav": [
+      "Vibeit",
+      "เรื่องราวของผม",
+      "ผลงานอื่น"
+    ],
+    "skip": "ข้ามไปยังเนื้อหา",
+    "language": "เลือกภาษา",
+    "heroKicker": "Mecury / ชีวิตในโลกคู่ขนาน",
+    "headline": [
+      "อีกชีวิตหนึ่ง",
+      "ที่ลงมือสร้างจริง"
+    ],
+    "intro": "ผมชื่อ Zhi เป็นนักวิทยาศาสตร์ที่จินตนาการถึงชีวิตมากกว่าหนึ่งแบบ ที่นี่คือจุดเริ่มต้นที่ผมลงมือสร้างความเป็นไปได้เหล่านั้น",
+    "explore": "รู้จัก Vibeit",
+    "read": "อ่านเรื่องราว",
+    "role": "นักชีววิทยาระดับโมเลกุลและชีววิทยาเชิงคำนวณ",
+    "education": "ศิษย์เก่า Imperial College London",
+    "firstChapter": "บทแรกของเรื่องราว",
+    "teaser": "ความฝันเก่า สู่แอปที่ใช้ได้จริง",
+    "heroFooter": "วิทยาศาสตร์ × ซอฟต์แวร์ × ความเป็นไปได้",
+    "scroll": "เลื่อนลงเพื่ออ่านบทแรก",
+    "productTitle": [
+      "ผมสร้าง IDE บน iPad",
+      "ที่เคยอยากมีในวันนั้น"
+    ],
+    "productIntro": [
+      "เรื่องราวเริ่มจากนักศึกษาคนหนึ่ง iPad หนึ่งเครื่อง และคำถามว่า ทำไมผมจึงทำงาน Python บนเครื่องนี้ไม่ได้?",
+      "Vibeit คือคำตอบของผม"
+    ],
+    "specs": [
+      "รัน Python จริงบนอุปกรณ์",
+      "สมุดบันทึกโค้ดแบบโต้ตอบ",
+      "สร้างมาเพื่อชิป Apple"
+    ],
+    "productLink": "สำรวจแอป",
+    "storyKicker": "01 / จุดเริ่มต้นของ Vibeit",
+    "storyTitle": [
+      "บางไอเดียอยู่กับเราเสมอ",
+      "จนถึงวันที่เราทำให้มันเป็นจริง"
+    ],
+    "steps": [
+      [
+        "ความฝันในวันนั้น",
+        "แท็บเล็ตที่เต็มไปด้วยความเป็นไปได้",
+        "iPad เครื่องแรกเก็บทั้งโน้ตและภาพร่างของผม ตอนเป็นนักศึกษา ผมอยากใช้มันเขียน Python และวิเคราะห์ข้อมูลทางชีววิทยาด้วย แต่ยังหา IDE ที่ตรงใจไม่ได้"
+      ],
+      [
+        "การตัดสินใจ",
+        "สร้างเครื่องมือที่อยากใช้เอง",
+        "ความคิดนั้นไม่เคยหายไป ผมจึงเริ่มพัฒนาเป็น Vibeit พื้นที่ทำงานจริงสำหรับโค้ด สมุดบันทึก และการสำรวจทางวิทยาศาสตร์บนอุปกรณ์เดียวกัน"
+      ],
+      [
+        "ความเป็นไปได้ในวันนี้",
+        "ให้ฮาร์ดแวร์ทำอะไรได้มากขึ้น",
+        "ชิปตระกูล M เพิ่มพลังประมวลผลให้ iPad ส่วน Vibeit ช่วยนำพลังนั้นมาใช้ในงานประจำวัน และทำให้ไอเดียเก่าของผมมีอนาคตที่คนอื่นร่วมใช้งานได้"
+      ]
+    ],
+    "aboutKicker": "02 / ชีวิตแบบอื่นที่อยากลอง",
+    "aboutTitle": [
+      "เผื่อที่ไว้ให้ตัวผม",
+      "ที่ยังเติบโตต่อไป"
+    ],
+    "aboutBody": [
+      "ผมเป็นนักชีววิทยาระดับโมเลกุลและชีววิทยาเชิงคำนวณ จบจาก Imperial College London ผมรักวิทยาศาสตร์ และยังสงสัยใคร่รู้เกี่ยวกับโลกที่ไม่เคยใช้ชีวิตอยู่ ทั้งการแพทย์ กฎหมาย การแสดง และดนตรี",
+      "Mecury คือชื่อที่ผมตั้งให้ชีวิตหนึ่งในโลกคู่ขนานเหล่านั้น ในเวลาว่าง ผมเริ่มใช้ชีวิตแบบนั้นได้ ด้วยการสร้างซอฟต์แวร์ทีละชิ้น"
+    ],
+    "careers": [
+      "นักวิทยาศาสตร์",
+      "แพทย์",
+      "ทนายความ",
+      "นักแสดง",
+      "นักร้อง",
+      "ผู้สร้าง ที่นี่และตอนนี้"
+    ],
+    "portraitCaption": "นักวิทยาศาสตร์และผู้สร้าง",
+    "otherTitle": "ผลงานอื่นอีกเล็กน้อย",
+    "otherKicker": "เรื่องราวยังดำเนินต่อ",
+    "timenu": [
+      "มองเวลาจากอีกมุมหนึ่ง",
+      "นาฬิกาโลกบนแถบเมนูของ Mac"
+    ],
+    "sentinel": [
+      "ดูแลการทำงานอย่างสบายใจขึ้น",
+      "เฝ้าติดตามเซิร์ฟเวอร์โดยคำนึงถึงความเป็นส่วนตัว"
+    ],
+    "closingTitle": [
+      "เว้นที่ไว้ให้",
+      "ความเป็นไปได้ครั้งใหม่"
+    ],
+    "closingBody": "เริ่มด้วย Vibeit แล้วดูว่าความใคร่รู้จะพาคุณไปที่ไหน",
+    "closingCta": "พบกับ Vibeit",
+    "contact": "ติดต่อ",
+    "privacy": "ความเป็นส่วนตัว",
+    "footerNote": "อีกชีวิตหนึ่ง เริ่มจากการสร้างผลงานทีละชิ้น",
+    "portraitAlt": "Zhi Luo สวมหูฟังสีน้ำเงินและมองไปด้านข้าง",
+    "formalAlt": "ภาพบุคคลของ Zhi Luo ในเสื้อแจ็กเก็ตผ้าทวีด",
+    "productAlt": "Vibeit บน iPad แสดงโค้ด Python รูปคลื่น และสเปกโตรแกรม"
+  },
+  "es": {
+    "name": "Español",
+    "short": "ES",
+    "pageTitle": "Mecury — Una vida paralela, hecha realidad",
+    "description": "El mundo de Zhi Luo, biólogo molecular y computacional graduado del Imperial College London. Descubre Vibeit, el IDE para iPad que siempre quiso tener.",
+    "nav": [
+      "Vibeit",
+      "Mi historia",
+      "Otras creaciones"
+    ],
+    "skip": "Ir al contenido",
+    "language": "Elegir idioma",
+    "heroKicker": "Mecury / Una vida paralela",
+    "headline": [
+      "Una vida paralela.",
+      "Hecha realidad."
+    ],
+    "intro": "Soy Zhi. Un científico que imagina más de una vida. Aquí empiezo a dar forma a las demás.",
+    "explore": "Descubrir Vibeit",
+    "read": "Leer mi historia",
+    "role": "Biólogo molecular y computacional",
+    "education": "Graduado del Imperial College London",
+    "firstChapter": "El primer capítulo",
+    "teaser": "Un viejo deseo. Una aplicación real.",
+    "heroFooter": "Ciencia × Software × Posibilidades",
+    "scroll": "Ir al primer capítulo",
+    "productTitle": [
+      "Creé el IDE para iPad",
+      "que siempre quise tener."
+    ],
+    "productIntro": [
+      "Todo empezó con un estudiante, un iPad y una pregunta: ¿por qué no podía hacer aquí mi trabajo con Python?",
+      "Vibeit es mi respuesta."
+    ],
+    "specs": [
+      "Python real en el dispositivo",
+      "Notebooks interactivos",
+      "Creado para los chips de Apple"
+    ],
+    "productLink": "Explorar la aplicación",
+    "storyKicker": "01 / Cómo nació Vibeit",
+    "storyTitle": [
+      "Algunas ideas te acompañan",
+      "hasta que las haces realidad."
+    ],
+    "steps": [
+      [
+        "El deseo",
+        "Una tableta llena de posibilidades.",
+        "Mi primer iPad guardaba apuntes y bocetos. Como estudiante, también quería escribir Python y analizar datos biológicos en él. No encontraba el IDE que buscaba."
+      ],
+      [
+        "La decisión",
+        "Crear la herramienta que quería.",
+        "La idea nunca terminó de irse. Empecé a convertirla en Vibeit: un espacio real para programar, trabajar con notebooks y explorar la ciencia, directamente en el dispositivo."
+      ],
+      [
+        "La posibilidad",
+        "Hacer más con el hardware.",
+        "Los chips de la serie M aportan más potencia de cálculo al iPad. Vibeit le da un lugar en mi trabajo diario y ofrece a aquella idea un futuro que va más allá de mí."
+      ]
+    ],
+    "aboutKicker": "02 / Las otras vidas",
+    "aboutTitle": [
+      "Un lugar para quien",
+      "todavía puedo llegar a ser."
+    ],
+    "aboutBody": [
+      "Soy biólogo molecular y computacional, graduado del Imperial College London. Me apasiona la ciencia. También me intrigan mundos que aún no he vivido: la medicina, el derecho, la interpretación y la música.",
+      "Mecury es el nombre que di a una de esas vidas paralelas. En mi tiempo libre puedo empezar a vivirla, creando software, una pieza a la vez."
+    ],
+    "careers": [
+      "Científico",
+      "Médico",
+      "Abogado",
+      "Actor",
+      "Cantante",
+      "Creador, aquí y ahora"
+    ],
+    "portraitCaption": "El científico y el creador",
+    "otherTitle": "Algunas otras creaciones.",
+    "otherKicker": "La historia continúa",
+    "timenu": [
+      "Otra perspectiva sobre el tiempo.",
+      "Relojes mundiales en la barra de menús del Mac."
+    ],
+    "sentinel": [
+      "Una forma más tranquila de estar pendiente.",
+      "Supervisión privada de tus servidores."
+    ],
+    "closingTitle": [
+      "Haz sitio para",
+      "otra posibilidad."
+    ],
+    "closingBody": "Empieza con Vibeit. Descubre adónde te lleva la curiosidad.",
+    "closingCta": "Conocer Vibeit",
+    "contact": "Contacto",
+    "privacy": "Privacidad",
+    "footerNote": "Otra vida, una creación a la vez.",
+    "portraitAlt": "Zhi Luo de perfil con auriculares azules",
+    "formalAlt": "Retrato de Zhi Luo con una chaqueta de tweed",
+    "productAlt": "Vibeit en iPad con código Python, una forma de onda y un espectrograma"
+  },
+  "it": {
+    "name": "Italiano",
+    "short": "IT",
+    "pageTitle": "Mecury — Una vita parallela, costruita davvero",
+    "description": "Il mondo di Zhi Luo, biologo molecolare e computazionale laureato all’Imperial College London. Scopri Vibeit, l’IDE per iPad che desiderava da studente.",
+    "nav": [
+      "Vibeit",
+      "La mia storia",
+      "Altre creazioni"
+    ],
+    "skip": "Vai al contenuto",
+    "language": "Scegli la lingua",
+    "heroKicker": "Mecury / Una vita parallela",
+    "headline": [
+      "Una vita parallela.",
+      "Costruita davvero."
+    ],
+    "intro": "Sono Zhi. Uno scienziato che immagina più di una vita. Qui comincio a dare forma alle altre.",
+    "explore": "Esplora Vibeit",
+    "read": "La mia storia",
+    "role": "Biologo molecolare e computazionale",
+    "education": "Laureato all’Imperial College London",
+    "firstChapter": "Il primo capitolo",
+    "teaser": "Un vecchio desiderio. Un’app vera.",
+    "heroFooter": "Scienza × Software × Possibilità",
+    "scroll": "Scopri il primo capitolo",
+    "productTitle": [
+      "Ho creato l’IDE per iPad",
+      "che ho sempre desiderato."
+    ],
+    "productIntro": [
+      "Tutto è iniziato con uno studente, un iPad e una domanda: perché non potevo fare qui il mio lavoro con Python?",
+      "Vibeit è la mia risposta."
+    ],
+    "specs": [
+      "Python vero, sul dispositivo",
+      "Notebook interattivi",
+      "Pensato per i chip Apple"
+    ],
+    "productLink": "Scopri l’app",
+    "storyKicker": "01 / Come è nato Vibeit",
+    "storyTitle": [
+      "Certe idee restano con te",
+      "finché non le rendi reali."
+    ],
+    "steps": [
+      [
+        "Il desiderio",
+        "Un tablet pieno di possibilità.",
+        "Il mio primo iPad raccoglieva appunti e schizzi. Da studente, volevo usarlo anche per scrivere Python e analizzare dati biologici. Non trovavo l’IDE che cercavo."
+      ],
+      [
+        "La decisione",
+        "Costruire lo strumento che volevo.",
+        "Quell’idea non se n’è mai andata del tutto. Ho iniziato a trasformarla in Vibeit: uno spazio di lavoro per codice, notebook ed esplorazione scientifica, direttamente sul dispositivo."
+      ],
+      [
+        "La possibilità",
+        "Fare di più con l’hardware.",
+        "I chip della serie M portano più potenza di calcolo su iPad. Vibeit le dà un posto nel mio lavoro quotidiano e offre a una vecchia idea un futuro che va oltre me."
+      ]
+    ],
+    "aboutKicker": "02 / Le altre vite",
+    "aboutTitle": [
+      "Spazio per chi",
+      "sto ancora diventando."
+    ],
+    "aboutBody": [
+      "Sono un biologo molecolare e computazionale, laureato all’Imperial College London. Amo la scienza. Mi incuriosiscono anche mondi che non ho ancora vissuto: la medicina, il diritto, la recitazione, la musica.",
+      "Mecury è il nome che ho dato a una di quelle vite parallele. Nel tempo libero posso cominciare a viverla, creando software, un progetto alla volta."
+    ],
+    "careers": [
+      "Scienziato",
+      "Medico",
+      "Avvocato",
+      "Attore",
+      "Cantante",
+      "Creatore, qui e ora"
+    ],
+    "portraitCaption": "Lo scienziato e il creatore",
+    "otherTitle": "Qualche altra creazione.",
+    "otherKicker": "La storia continua",
+    "timenu": [
+      "Un altro punto di vista sul tempo.",
+      "Gli orologi del mondo nella barra dei menu del Mac."
+    ],
+    "sentinel": [
+      "Un modo più tranquillo di tenere d’occhio tutto.",
+      "Monitoraggio privato dei tuoi server."
+    ],
+    "closingTitle": [
+      "Fai spazio a",
+      "un’altra possibilità."
+    ],
+    "closingBody": "Comincia con Vibeit. Segui la tua curiosità.",
+    "closingCta": "Scopri Vibeit",
+    "contact": "Contatti",
+    "privacy": "Privacy",
+    "footerNote": "Un’altra vita, una creazione alla volta.",
+    "portraitAlt": "Zhi Luo di profilo con cuffie blu",
+    "formalAlt": "Ritratto di Zhi Luo con giacca di tweed",
+    "productAlt": "Vibeit su iPad con codice Python, una forma d’onda e uno spettrogramma"
+  },
+  "ar": {
+    "name": "العربية",
+    "short": "AR",
+    "pageTitle": "Mecury — حياة موازية أبنيها في الواقع",
+    "description": "عالم Zhi Luo، خريج إمبريال كوليدج لندن وعالم الأحياء الجزيئية والحاسوبية. اكتشف Vibeit، بيئة التطوير على iPad التي تمناها في أيام الدراسة.",
+    "nav": [
+      "Vibeit",
+      "قصتي",
+      "أعمال أخرى"
+    ],
+    "skip": "انتقل إلى المحتوى",
+    "language": "اختر اللغة",
+    "heroKicker": "Mecury / حياة موازية",
+    "headline": [
+      "حياة موازية.",
+      "أبنيها في الواقع."
+    ],
+    "intro": "أنا Zhi، عالِم يتخيل أكثر من حياة واحدة. هنا أبدأ بتحويل تلك الاحتمالات إلى أشياء حقيقية.",
+    "explore": "اكتشف Vibeit",
+    "read": "اقرأ قصتي",
+    "role": "عالم أحياء جزيئية وحاسوبية",
+    "education": "خريج إمبريال كوليدج لندن",
+    "firstChapter": "الفصل الأول",
+    "teaser": "أمنية قديمة. وتطبيق حقيقي.",
+    "heroFooter": "العلوم × البرمجيات × الاحتمالات",
+    "scroll": "انتقل إلى الفصل الأول",
+    "productTitle": [
+      "بنيت بيئة التطوير على iPad",
+      "التي تمنيتها يومًا."
+    ],
+    "productIntro": [
+      "بدأ الأمر بطالب، وجهاز iPad، وسؤال: لماذا لا أستطيع إنجاز عملي بلغة Python هنا؟",
+      "Vibeit هو إجابتي."
+    ],
+    "specs": [
+      "Python حقيقي على الجهاز",
+      "دفاتر برمجية تفاعلية",
+      "مصمم لشرائح Apple"
+    ],
+    "productLink": "تعرّف على التطبيق",
+    "storyKicker": "01 / كيف بدأ Vibeit",
+    "storyTitle": [
+      "بعض الأفكار تبقى معك",
+      "حتى تمنحها شكلًا حقيقيًا."
+    ],
+    "steps": [
+      [
+        "الأمنية",
+        "جهاز لوحي مليء بالاحتمالات.",
+        "كان أول iPad أملكه يحتفظ بملاحظاتي ورسوماتي. حين كنت طالبًا، أردت أن أكتب عليه Python وأحلل البيانات البيولوجية أيضًا. لكنني لم أجد بيئة التطوير التي أبحث عنها."
+      ],
+      [
+        "القرار",
+        "أن أبني الأداة التي أردتها.",
+        "لم تفارقني الفكرة تمامًا. بدأت أحوّلها إلى Vibeit: مساحة عمل حقيقية للبرمجة والدفاتر البرمجية والاستكشاف العلمي، مباشرة على الجهاز."
+      ],
+      [
+        "الاحتمال",
+        "أن نستخدم قدرات الجهاز في المزيد.",
+        "تمنح شرائح سلسلة M جهاز iPad قدرة حوسبة أكبر. ويمنح Vibeit هذه القدرة مكانًا في عملي اليومي، ويمنح فكرة قديمة مستقبلًا يمكن للآخرين المشاركة فيه."
+      ]
+    ],
+    "aboutKicker": "02 / الحياة بأشكال أخرى",
+    "aboutTitle": [
+      "مساحة لما",
+      "ما زلت أستطيع أن أكونه."
+    ],
+    "aboutBody": [
+      "أنا عالم أحياء جزيئية وحاسوبية، وخريج إمبريال كوليدج لندن. أحب العلم، وأتساءل أيضًا عن عوالم لم أعشها: الطب، والقانون، والتمثيل، والموسيقى.",
+      "Mecury هو الاسم الذي منحته لإحدى تلك الحيوات الموازية. في وقت فراغي، أبدأ عيشها بإنشاء البرمجيات، عملًا بعد آخر."
+    ],
+    "careers": [
+      "عالِم",
+      "طبيب",
+      "محامٍ",
+      "ممثل",
+      "مغنٍ",
+      "صانع، هنا والآن"
+    ],
+    "portraitCaption": "العالِم والصانع",
+    "otherTitle": "بعض الأعمال الأخرى.",
+    "otherKicker": "القصة مستمرة",
+    "timenu": [
+      "نظرة أخرى إلى الوقت.",
+      "ساعات العالم في شريط قوائم Mac."
+    ],
+    "sentinel": [
+      "طريقة أكثر هدوءًا للبقاء على اطلاع.",
+      "مراقبة خاصة لخوادمك."
+    ],
+    "closingTitle": [
+      "اترك مساحة",
+      "لاحتمال آخر."
+    ],
+    "closingBody": "ابدأ مع Vibeit، واكتشف إلى أين يأخذك فضولك.",
+    "closingCta": "تعرّف على Vibeit",
+    "contact": "تواصل",
+    "privacy": "الخصوصية",
+    "footerNote": "حياة أخرى، نصنعها عملًا بعد آخر.",
+    "portraitAlt": "Zhi Luo ينظر جانبًا ويرتدي سماعات زرقاء",
+    "formalAlt": "صورة شخصية لـ Zhi Luo مرتديًا سترة من التويد",
+    "productAlt": "Vibeit على iPad يعرض شيفرة Python وموجة صوتية ومخططًا طيفيًا"
+  }
+}
